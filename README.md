@@ -73,9 +73,3 @@ After running the application, users will receive recommendations based on the c
 - User-friendly interface to analyze the data.
 - Exporting processed data as recommendation for users.
 
-## Contact Information
-
-For questions or suggestions, please reach out to:
-
-- **Riven Lee**
-- Email: [rivenlee@cmu.com](mailto:rivenlee@cmu.com)
